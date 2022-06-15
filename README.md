@@ -1,5 +1,5 @@
 # TICSS
-TICSS Injects CSS - A very small tool for adding themes to your website!
+Themes Injected CSS - A very small tool for adding themes to your website!
 ---
 # How does it work?
 Download the `ticss.js` and paste it somewhere inside of your project. Then add it to your website using a script tag:
